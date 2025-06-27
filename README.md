@@ -152,15 +152,24 @@ Maintained by the Vibe Coding Agents Team
 - GitHub: [@vibe-coding-agentic-apps](https://github.com/wjlgatech/vibe-coding-agentic-apps)  
 - Email: wjlgatech@gmail.com
 
-## Rferences
+## References
 
 [1] https://convin.ai/blog/conversational-voice-ai-platform
+
 [2] https://www.reddit.com/r/nocode/comments/12g10kx/is_there_a_nocode_platform_that_allows_users_to/
+
 [3] https://www.botstacks.ai/blog/7-conversation-design-hurdles-solved-by-no-code-chatbots
+
 [4] https://www.sopranodesign.com/communications-platform-as-a-service-cpaas/conversational-ai-chatbot/
+
 [5] https://stackoverflow.com/questions/52528952/running-tests-against-code-examples-in-a-readme-md
+
 [6] https://www.verloop.io/blog/cx-automation/
+
 [7] https://www.nocobase.com/en/blog/the-top-12-open-source-no-code-tools-with-the-most-github-stars
+
 [8] https://denser.ai/blog/no-code-chatbot/
+
 [9] https://chatling.ai
+
 [10] https://zapier.com/blog/best-no-code-app-builder/

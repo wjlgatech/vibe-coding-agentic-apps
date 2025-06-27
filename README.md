@@ -21,7 +21,8 @@ A modular, extensible framework empowering business owners, product managers, an
 - [Development & Testing](#development--testing)  
 - [Contributing](#contributing)  
 - [License](#license)  
-- [Contact](#contact)  
+- [Contact](#contact)
+- [References](#references) 
 
 ## Project Overview  
 Vibe Coding Agentic Applications transforms software development into a natural dialogue. Non-technical stakeholders can specify features, sketch workflows, or upload reference images—and our multi-agent system handles planning, code generation, testing, and deployment.
@@ -150,6 +151,8 @@ Apache 2.0 License. See [LICENSE](LICENSE) for details.
 Maintained by the Vibe Coding Agents Team  
 - GitHub: [@vibe-coding-agentic-apps](https://github.com/wjlgatech/vibe-coding-agentic-apps)  
 - Email: wjlgatech@gmail.com
+
+## Rferences
 
 [1] https://convin.ai/blog/conversational-voice-ai-platform
 [2] https://www.reddit.com/r/nocode/comments/12g10kx/is_there_a_nocode_platform_that_allows_users_to/

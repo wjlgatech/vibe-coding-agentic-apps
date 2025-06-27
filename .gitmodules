@@ -1,0 +1,6 @@
+[submodule "src/google-adk"]
+	path = src/google-adk
+	url = https://github.com/google/adk-python.git
+[submodule "src/google-adk-examples"]
+	path = src/google-adk-examples
+	url = https://github.com/google/adk-samples.git

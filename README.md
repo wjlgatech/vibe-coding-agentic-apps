@@ -1,6 +1,6 @@
 # Vibe Coding Agentic Apps
 
-A modular, extensible framework empowering business owners, product managers, and citizen developers to design, create, and deploy full agentic applications entirely through natural conversation—whether by text, voice, reference images, or example workflows.
+A modular, extensible framework empowering business owners, product managers, and citizen developers to design, create, and deploy full agentic apps entirely through natural conversation—whether by text, voice, reference images, or example workflows.
 
 ## Table of Contents
 - [Project Overview](#project-overview)  
@@ -25,7 +25,7 @@ A modular, extensible framework empowering business owners, product managers, an
 - [References](#references) 
 
 ## Project Overview  
-Vibe Coding Agentic Applications transforms software development into a natural dialogue. Non-technical stakeholders can specify features, sketch workflows, or upload reference images—and our multi-agent system handles planning, code generation, testing, and deployment.
+Vibe Coding Agentic apps transforms software development into a natural dialogue. Non-technical stakeholders can specify features, sketch workflows, or upload reference images—and our multi-agent system handles planning, code generation, testing, and deployment.
 
 ## Key Features  
 - **Conversational No-Code Interface**: Build agents by chatting in plain language.  
@@ -61,8 +61,8 @@ Agents communicate through a central coordinator, leveraging:
 
 ### Clone & Submodules  
 ```bash
-git clone git@github.com:/vibe-coding-agentic-applications.git
-cd vibe-coding-agentic-applications
+git clone git@github.com:/vibe-coding-agentic-apps.git
+cd vibe-coding-agentic-apps
 git submodule add https://github.com/google/agent-development-kit.git src/google-adk
 git submodule add https://github.com/google/agent-development-kit-samples.git src/google-adk-examples
 git submodule update --init --recursive
@@ -110,7 +110,7 @@ Drag-and-drop UI mockups or upload BPMN/JSON workflows directly into the chat. A
 
 ## Directory Structure  
 ```
-vibe-coding-agentic-applications/
+vibe-coding-agentic-apps/
 ├── config/                  # YAML and .env templates  
 ├── deployments/             # Docker, Kubernetes, Cloud Run manifests  
 ├── docs/                    # Architecture and API reference  

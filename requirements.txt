@@ -1,0 +1,5 @@
+-e src/google-adk
+fastapi
+uvicorn
+pyyaml
+python-dotenv
